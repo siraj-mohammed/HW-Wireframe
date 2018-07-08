@@ -57,13 +57,16 @@ article {
     margin-top: 20px;
 }
 
-h1, p {
+div, p {
     color: #777;
     background-color: #ebebeb;
     padding: 10px;
     margin: 10px;
 }
 
+h1,h2,h3{
+    display: inline;
+}
 aside{
     width: 425px;
     float: left;
